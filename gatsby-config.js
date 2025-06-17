@@ -9,7 +9,7 @@ module.exports = {
     title: "Popeyes Louisiana Kitchen (Robinsons Galleria)",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/AUVB-KNTY-2020-I101",
+  pathPrefix: "/AUVB-KNTY-2020-I01",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
